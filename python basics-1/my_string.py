@@ -13,3 +13,5 @@ print(Name.count('r'))
 print(Name.endswith('y',3,8))
 print(Name.find('r'))# first index of the occurence
 
+
+'Sowmya'.split('w')
